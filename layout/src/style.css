@@ -1,0 +1,8 @@
+:host {
+  padding: 20px;
+  background-color: lightcoral;
+}
+
+.externalButton {
+  color: green;
+}
